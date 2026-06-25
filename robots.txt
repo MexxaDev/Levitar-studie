@@ -1,0 +1,6 @@
+# LEVITAR - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+Sitemap: https://levitar.com/sitemap.xml

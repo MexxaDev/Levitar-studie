@@ -1,0 +1,70 @@
+:root {
+  --color-black: #050505;
+  --color-white: #F8F8F8;
+  --color-gray-900: #050505;
+  --color-gray-800: #121212;
+  --color-gray-700: #1A1A1A;
+  --color-gray-600: #2A2A2A;
+  --color-gray-500: #3F3F3F;
+  --color-gray-400: #71717A;
+  --color-gray-300: #A1A1AA;
+  --color-accent: #00C896;
+  --color-accent-light: #00E8A0;
+  --color-accent-dark: #00B080;
+  --color-accent-bg: rgba(0, 200, 150, 0.06);
+  --color-accent-secondary: #7C5CFC;
+  --color-accent-secondary-bg: rgba(124, 92, 252, 0.06);
+  --color-warm: #F59E0B;
+  --color-whatsapp: #25D366;
+
+  --font-heading: 'Satoshi', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1.125rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2rem;
+  --text-4xl: 2.5rem;
+  --text-5xl: 3.5rem;
+  --text-6xl: 4.5rem;
+  --text-7xl: 6rem;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+  --space-32: 8rem;
+
+  --max-width: 1200px;
+  --max-width-narrow: 880px;
+  --content-padding: 2rem;
+
+  --border-default: 1px solid rgba(255, 255, 255, 0.06);
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  --transition-fast: 300ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-base: 800ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 1000ms cubic-bezier(0.16, 1, 0.3, 1);
+
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 20px 50px rgba(0, 0, 0, 0.3);
+
+  --z-header: 100;
+  --z-overlay: 200;
+  --z-modal: 300;
+}
